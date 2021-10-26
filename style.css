@@ -9,6 +9,6 @@ h1{
 }
 #myCanvas{
     border-width: 10px;
-    background-color: beige;
+    background-color: rgba(25, 78, 158, 0.397);
     border-style: ridge;
 }
